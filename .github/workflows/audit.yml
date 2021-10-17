@@ -5,7 +5,7 @@ name: audit
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, test-audit ]
   pull_request:
     branches: [ master ]
   schedule:
