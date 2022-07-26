@@ -51,6 +51,7 @@ pub mod mesh;
 pub mod particle_system;
 pub mod pivot;
 pub mod rectangle;
+pub mod reflect;
 pub mod rigid_body;
 pub mod rigid_body2d;
 pub mod sound;
